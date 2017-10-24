@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vihangpatel/v2-marijuana/issues"
   },
-  "homepage": "https://github.com/vihangpatel/v2-marijuana#readme"
+  "homepage": "https://github.com/vihangpatel/v2-marijuana#readme",
+  "dependencies": {
+    "webpack": "^3.8.1"
+  }
 }
